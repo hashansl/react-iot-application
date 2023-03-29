@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "reactiotAPI",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authreactiotapp3f0a5058",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

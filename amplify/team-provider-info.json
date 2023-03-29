@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactiotapp-dev-212800-authRole",
+      "UnauthRoleArn": "arn:aws:iam::586805086440:role/amplify-reactiotapp-dev-212800-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::586805086440:role/amplify-reactiotapp-dev-212800-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-reactiotapp-dev-212800-deployment",
+      "UnauthRoleName": "amplify-reactiotapp-dev-212800-unauthRole",
+      "StackName": "amplify-reactiotapp-dev-212800",
+      "StackId": "arn:aws:cloudformation:us-east-2:586805086440:stack/amplify-reactiotapp-dev-212800/66610e30-0b3d-11ec-974a-0ac9f54e1470",
+      "AmplifyAppId": "d21fmrqgtbquhf"
+    },
+    "categories": {
+      "auth": {
+        "reactiotapp3f0a5058": {}
+      }
+    }
+  }
+}

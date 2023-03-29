@@ -1,0 +1,6 @@
+type Iot @model {
+  id: ID!
+  seal: Int!
+  latitude: Float!
+  longitude: Float!
+}
